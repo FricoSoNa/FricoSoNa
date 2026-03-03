@@ -27,10 +27,10 @@
 
 ### 🚀 Proyectos Destacados
 
-- **[Urban Routes – Pruebas Manuales Web](https://github.com/FricoSoNa/qa-portfolio/tree/main/projects/urban-routes)**  
+- **[Urban Routes – Pruebas Manuales Web](https://github.com/FricoSoNa/qa-portfolio/projects/urban-routes)**  
   Pruebas completas de flujo de reserva (UI, diseño responsive, lógica de tarifas y pago). Identifiqué 12 defectos.
 
-- **[Urban Grocers – Pruebas de API REST](https://github.com/FricoSoNa/qa-portfolio/tree/main/projects/urban-grocers-api)**  
+- **[Urban Grocers – Pruebas de API REST](https://github.com/FricoSoNa/qa-portfolio/projects/urban-grocers-api)**  
   37 casos de prueba en endpoints reales con Postman. Validación de respuestas, límites y errores. Reporté 13 defectos.
 
 Repositorio completo del portafolio → [qa-portfolio](https://github.com/FricoSoNa/qa-portfolio)
