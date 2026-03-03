@@ -1,5 +1,3 @@
-<p href="https://github.com/FricoSoNa/FricoSoNa/blob/main/image%20(1).jpg">
-
 <h1 align="center">¡Hola! Soy Hugo Francisco Sotelo Najera 👋</h1>
 
 <h3 align="center">QA Engineer Tester Junior | Pruebas Manuales & API</h3>
